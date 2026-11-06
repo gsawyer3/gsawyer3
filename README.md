@@ -45,7 +45,7 @@ Most of my code lives in private repositories, so here's the shape of it:
 [![AWS Academy Educator](https://img.shields.io/badge/AWS_Academy-Educator-232F3E?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/cc5a2414-28ac-40cf-8889-51524da00f26)
 [![AWS Well-Architected Proficient](https://img.shields.io/badge/AWS-Well--Architected_Proficient-232F3E?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/736d35c0-ba7d-4d8b-b037-50c87dcfc270)
 
-**Earlier certifications:** CompTIA A+ and CompTIA Network+. Every badge is verified on [Credly](https://www.credly.com/users/george-sawyer).
+**Earlier certifications:** CompTIA A+ and CompTIA Network+. See them all on [Credly](https://www.credly.com/users/george-sawyer).
 
 ### What I work with
 
