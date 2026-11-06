@@ -49,16 +49,47 @@ Most of my code lives in private repositories, so here's the shape of it:
 
 ### What I work with
 
+**AI & agentic tools**
+
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-01A88D?logo=amazonwebservices&logoColor=white)
+![Amazon Comprehend](https://img.shields.io/badge/Amazon_Comprehend-01A88D?logo=amazonwebservices&logoColor=white)
+![Amazon Transcribe](https://img.shields.io/badge/Amazon_Transcribe-01A88D?logo=amazonwebservices&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?logo=amazonwebservices&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-7B42F6)
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-1F2937)
+
+**AWS serverless**
+
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=amazonwebservices&logoColor=white)
+![Amazon API Gateway](https://img.shields.io/badge/Amazon_API_Gateway-FF9900?logo=amazonwebservices&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-FF9900?logo=amazonwebservices&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF9900?logo=amazonwebservices&logoColor=white)
+![Amazon SNS](https://img.shields.io/badge/Amazon_SNS-FF9900?logo=amazonwebservices&logoColor=white)
+![Amazon EventBridge](https://img.shields.io/badge/Amazon_EventBridge-FF9900?logo=amazonwebservices&logoColor=white)
+![Amazon CloudFront](https://img.shields.io/badge/Amazon_CloudFront-FF9900?logo=amazonwebservices&logoColor=white)
+![Amazon Cognito](https://img.shields.io/badge/Amazon_Cognito-FF9900?logo=amazonwebservices&logoColor=white)
+
+**Infrastructure as code, governance & security**
+
+![AWS SAM](https://img.shields.io/badge/AWS_SAM-232F3E?logo=amazonwebservices&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-232F3E?logo=amazonwebservices&logoColor=white)
+![AWS Control Tower](https://img.shields.io/badge/AWS_Control_Tower-232F3E?logo=amazonwebservices&logoColor=white)
+![IAM Identity Center](https://img.shields.io/badge/IAM_Identity_Center-232F3E?logo=amazonwebservices&logoColor=white)
+![AWS Security Hub](https://img.shields.io/badge/AWS_Security_Hub-232F3E?logo=amazonwebservices&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/AWS_WAF-232F3E?logo=amazonwebservices&logoColor=white)
+![AWS KMS](https://img.shields.io/badge/AWS_KMS-232F3E?logo=amazonwebservices&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-232F3E?logo=amazonwebservices&logoColor=white)
+
+**Languages & delivery**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+I also teach Amazon Bedrock AgentCore, Strands Agents and Amazon SageMaker.
 
 ### GitHub activity
 
