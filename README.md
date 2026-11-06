@@ -33,10 +33,19 @@ Most of my code lives in private repositories, so here's the shape of it:
 
 ### Certifications
 
-![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazonwebservices&logoColor=white)
-![AWS SysOps Administrator – Associate](https://img.shields.io/badge/AWS-SysOps_Administrator_Associate-FF9900?logo=amazonwebservices&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?logo=amazonwebservices&logoColor=white)
-![AWS Well-Architected Proficient](https://img.shields.io/badge/AWS-Well--Architected_Proficient-FF9900?logo=amazonwebservices&logoColor=white)
+[![AWS Certified Solutions Architect – Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/c9c1dc9f-2be0-44d8-aa68-ab7cdc4722b6)
+[![AWS Certified Security – Specialty](https://img.shields.io/badge/AWS-Security_Specialty-FF9900?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/289018e3-1b6b-4682-bc9c-793098b4c737)
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/c44c165e-a32a-4297-b67e-5dc227fb2e29)
+[![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/c49a31d5-c8d6-4497-b17b-1696384eca40)
+[![AWS Certified SysOps Administrator – Associate](https://img.shields.io/badge/AWS-SysOps_Administrator_Associate-FF9900?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/edee58de-0273-4ba5-8206-8b872a77cce8)
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/060c5e50-fcae-4085-b87e-84f2a681d06a)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/d8de407f-e4ba-43bb-b829-f9fc15225a82)
+
+[![AWS Authorized Instructor – Champion](https://img.shields.io/badge/AWS_Authorized_Instructor-Champion-232F3E?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/41e57ad1-e315-4375-91cc-cf57315a1ecf)
+[![AWS Academy Educator](https://img.shields.io/badge/AWS_Academy-Educator-232F3E?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/cc5a2414-28ac-40cf-8889-51524da00f26)
+[![AWS Well-Architected Proficient](https://img.shields.io/badge/AWS-Well--Architected_Proficient-232F3E?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/736d35c0-ba7d-4d8b-b037-50c87dcfc270)
+
+**Earlier certifications:** CompTIA A+ and CompTIA Network+. Every badge is verified on [Credly](https://www.credly.com/users/george-sawyer).
 
 ### What I work with
 
